@@ -1,24 +1,23 @@
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: "Whey Protein",
+    price: 55,
+    description: "Para complementar tua ingestão proteica diária"
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: "Hipercalórico",
+    price: 70,
+    description: "Para complementar sua dieta bulking"
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: "Creatina",
+    price: 40,
+    description: ""
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
